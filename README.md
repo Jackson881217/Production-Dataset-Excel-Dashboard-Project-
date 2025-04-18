@@ -55,7 +55,8 @@ This Excel Dashboard provides several key insights:
 
 ## 📷 Dashboard Preview
 
-![Production Dashboard](./dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/49bb7de7-b7f1-4150-8616-c7459d481d52)
+
 
 ---
 
@@ -69,8 +70,8 @@ This Excel Dashboard provides several key insights:
 
 ## 👤 Author
 
-Created by [Your Name]  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or check out more projects on [GitHub](https://github.com/)
+Created by Jackson (Ting-Yu).  
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ting-yu-jackson-chang/) or check out more projects on [GitHub](https://github.com/Jackson881217).
 
 ---
 
@@ -82,4 +83,10 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgements
 
-This dashboard was created as part of my learning journey in mastering Excel Dashboard design. All data used is simulated for educational purposes. Inspired by real-world manufacturing data scenarios and guided by Excel dashboard best practices.
+The dataset and dashboard were inspired by and based on materials from the Udemy course:
+
+**"Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, and SQL Server, Snowflake, AWS"**  
+Instructor: [Krish Naik & Jayant Topnani]  
+Link: [https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/]
+
+This project was created as part of my learning journey through the course. All rights and credits for the original dataset belong to the course creator.
